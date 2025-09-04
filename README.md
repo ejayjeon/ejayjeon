@@ -5,7 +5,7 @@
 ## My Tech Stack:
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,react,vue,next,nodejs,ts,py,docker&perline=5" />
+	<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,react,vue,py,pytorch,nodejs,ts,docker&perline=5" />
 </p>
 
 ## My Git Activities:
